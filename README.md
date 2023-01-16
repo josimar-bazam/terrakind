@@ -2,6 +2,9 @@
 Utilização do Terraform para automatizar a criação do Ambiente Vulneravel Kubernetes GOAT https://github.com/madhuakula/kubernetes-goat
 O ambiente criado é executado no KIND(KUBERNETES IN DOCKER)
 
+
+- Teste suporte
+
 1)PRÉ-REQUISITOS
 Realizados testes com o seguinte ambiente:
 kind version
