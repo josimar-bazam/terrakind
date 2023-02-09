@@ -1,4 +1,4 @@
-name: IAC
+name: SAST
 on:
  push:
    branches: [ master ]
@@ -16,5 +16,5 @@ jobs:
    steps:
    - uses: actions/checkout@v2
 
-   - name: Run iac
-     run: conviso iac run
+   - name: Run sast
+     run: conviso sast run
