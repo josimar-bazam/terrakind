@@ -4,6 +4,7 @@ O ambiente criado é executado no KIND(KUBERNETES IN DOCKER)
 
 
 - Teste suporte
+t- Teste Marco e Frazão 
 
 1)PRÉ-REQUISITOS
 Realizados testes com o seguinte ambiente:
